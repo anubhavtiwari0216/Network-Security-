@@ -12,33 +12,33 @@ This repository contains all practical implementations and projects related to N
 
 🌐 Networking Labs
 
-Star Topology (Packet Tracer)
-Bus Topology
-Mesh Topology
-Router Configuration (IP Addressing)
-Ping Testing
+Star Topology (Packet Tracer),
+Bus Topology,
+Mesh Topology,
+Router Configuration (IP Addressing),
+Ping Testing.
 
 🔐 Cyber Security
 
-Basics of Cyber Security
-Ethical Hacking Phases
-Types of Attacks (Phishing, Malware, DoS)
-Encryption Techniques (AES, RSA)
-Hashing (MD5, SHA-256)
+Basics of Cyber Security,
+Ethical Hacking Phases,
+Types of Attacks (Phishing, Malware, DoS),
+Encryption Techniques (AES, RSA),
+Hashing (MD5, SHA-256).
 
 💻 Programming
 
-C Programs (Basic + Lab Practical)
-Python Scripts for Security
-Simple Encryption/Decryption Programs
+C Programs (Basic + Lab Practical),
+Python Scripts for Security,
+Simple Encryption/Decryption Programs.
 
 📊 Tools Used
 
-Cisco Packet Tracer
-Wireshark
-Kali Linux (Basic)
-Python
-C Language
+Cisco Packet Tracer,
+Wireshark,
+Kali Linux (Basic),
+Python,
+C Language.
 
 🚀 How to Use
 
