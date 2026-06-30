@@ -42,19 +42,19 @@ C Language
 
 🚀 How to Use
 
-Clone the repository:
-Open files in respective tools.
+Clone the repository,
+Open files in respective tools,
 Run programs and explore concepts.
 
 🎯 Objective
-To understand networking concepts
-To learn cybersecurity basics
-To implement practical labs for academic learning
+To understand networking concepts,
+To learn cybersecurity basics,
+To implement practical labs for academic learning.
 
 📌 Future Updates
-Advanced Ethical Hacking Tools
-Web Security Projects
-Digital Forensics Basics
+Advanced Ethical Hacking Tools,
+Web Security Projects,
+Digital Forensics Basics.
 
 ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
